@@ -1,0 +1,80 @@
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\bin\Debug\netcoreapp3.1\Gol.exe
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\bin\Debug\netcoreapp3.1\Gol.deps.json
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\bin\Debug\netcoreapp3.1\Gol.runtimeconfig.json
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\bin\Debug\netcoreapp3.1\Gol.runtimeconfig.dev.json
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\bin\Debug\netcoreapp3.1\Gol.dll
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\bin\Debug\netcoreapp3.1\Gol.pdb
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.AssemblyReference.cache
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.GenerateResource.cache
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\obj\Debug\netcoreapp3.1\Gol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\obj\Debug\netcoreapp3.1\Gol.AssemblyInfoInputs.cache
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\obj\Debug\netcoreapp3.1\Gol.AssemblyInfo.cs
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.CoreCompileInputs.cache
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\obj\Debug\netcoreapp3.1\Gol.dll
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\obj\Debug\netcoreapp3.1\Gol.pdb
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\obj\Debug\netcoreapp3.1\Gol.genruntimeconfig.cache
+D:\Desktop\DIPLOMNA !!!\Gol\Gol\obj\Debug\netcoreapp3.1\Gol.GOL.resources
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\bin\Debug\netcoreapp3.1\Gol.exe
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\bin\Debug\netcoreapp3.1\Gol.deps.json
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\bin\Debug\netcoreapp3.1\Gol.runtimeconfig.json
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\bin\Debug\netcoreapp3.1\Gol.runtimeconfig.dev.json
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\bin\Debug\netcoreapp3.1\Gol.dll
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\bin\Debug\netcoreapp3.1\Gol.pdb
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.AssemblyReference.cache
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.GOL.resources
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.GenerateResource.cache
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.AssemblyInfoInputs.cache
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.AssemblyInfo.cs
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.CoreCompileInputs.cache
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.dll
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.pdb
+D:\Desktop\DIPLOMNA !!!\Gol – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.genruntimeconfig.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\bin\Debug\netcoreapp3.1\Gol.exe
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\bin\Debug\netcoreapp3.1\Gol.deps.json
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\bin\Debug\netcoreapp3.1\Gol.runtimeconfig.json
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\bin\Debug\netcoreapp3.1\Gol.runtimeconfig.dev.json
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\bin\Debug\netcoreapp3.1\Gol.dll
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\bin\Debug\netcoreapp3.1\Gol.pdb
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.AssemblyReference.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\obj\Debug\netcoreapp3.1\Gol.GOL.resources
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.GenerateResource.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\obj\Debug\netcoreapp3.1\Gol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\obj\Debug\netcoreapp3.1\Gol.AssemblyInfoInputs.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\obj\Debug\netcoreapp3.1\Gol.AssemblyInfo.cs
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.CoreCompileInputs.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\obj\Debug\netcoreapp3.1\Gol.dll
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\obj\Debug\netcoreapp3.1\Gol.pdb
+D:\Desktop\DIPLOMNA !!!\Gol v2\Gol\obj\Debug\netcoreapp3.1\Gol.genruntimeconfig.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\bin\Debug\netcoreapp3.1\Gol.exe
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\bin\Debug\netcoreapp3.1\Gol.deps.json
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\bin\Debug\netcoreapp3.1\Gol.runtimeconfig.json
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\bin\Debug\netcoreapp3.1\Gol.runtimeconfig.dev.json
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\bin\Debug\netcoreapp3.1\Gol.dll
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\bin\Debug\netcoreapp3.1\Gol.pdb
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.AssemblyReference.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.GOL.resources
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.GenerateResource.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.AssemblyInfoInputs.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.AssemblyInfo.cs
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.CoreCompileInputs.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.dll
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.pdb
+D:\Desktop\DIPLOMNA !!!\Gol v2 – Копие\Gol\obj\Debug\netcoreapp3.1\Gol.genruntimeconfig.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\bin\Debug\netcoreapp3.1\Gol.exe
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\bin\Debug\netcoreapp3.1\Gol.deps.json
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\bin\Debug\netcoreapp3.1\Gol.runtimeconfig.json
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\bin\Debug\netcoreapp3.1\Gol.runtimeconfig.dev.json
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\bin\Debug\netcoreapp3.1\Gol.dll
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\bin\Debug\netcoreapp3.1\Gol.pdb
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.AssemblyReference.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\obj\Debug\netcoreapp3.1\Gol.GOL.resources
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.GenerateResource.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\obj\Debug\netcoreapp3.1\Gol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\obj\Debug\netcoreapp3.1\Gol.AssemblyInfoInputs.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\obj\Debug\netcoreapp3.1\Gol.AssemblyInfo.cs
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\obj\Debug\netcoreapp3.1\Gol.csproj.CoreCompileInputs.cache
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\obj\Debug\netcoreapp3.1\Gol.dll
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\obj\Debug\netcoreapp3.1\Gol.pdb
+D:\Desktop\DIPLOMNA !!!\Gol v2.0\Gol\obj\Debug\netcoreapp3.1\Gol.genruntimeconfig.cache
